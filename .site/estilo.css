@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: 'Century Gothic';
+  background-color: #eee;
+  color: #fff;
+  margin: 0px;
+}
+.geral .destaque p {
+  padding-top: 10px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #ccc;
+}
+
+.topo-content {
+  color: #fff;
+  background-color: #000;
+  height: 100px;
+  width: 100%;
+}
+.topo {
+  padding: 5px;
+  height: 85px;
+  width: 1024px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  overflow: hidden;
+  border: 1px none #fff;
+}
+.topo-box {
+  height: 80px;
+  width: 333px;
+  border: 1px none #fff;
+  float: left;
+  margin: 3px;
+}
+.topo-content .topo .topo-box img {
+  height: auto;
+  width: 270px;
+  margin-top: 5px;
+}
+.topo-content .topo .topo-box #form1 label #textfield {
+  height: 30px;
+  width: 280px;
+  margin-top: 20px;
+  margin-left: 25px;
+  padding-left: 10px;
+  border: 280px none #999;
+}
+.topo-content .topo .topo-box #form2 {
+  margin-top: 20px;
+}
+.topo-content .topo .topo-box #form2 div a {
+  color: #fff;
+}
+.topo-content .topo .topo-box #form2 div label #button {
+  font-size: 14px;
+  color: #fff;
+  background-color: #990000;
+  height: 30px;
+  width: 100px;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+}
+.menu-site {
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #000;
+  height: 45px;
+  width: 100%;
+}
+.anima {
+  background-color: #000;
+  height: auto;
+  width: 100%;
+}
+.anima-content {
+  height: 430px;
+  width: 1024px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  border: 1px none #999;
+}
+.geral {
+  background-color: #fff;
+  height: auto;
+  width: 1024px;
+  margin-top: 40px;
+  margin-right: auto;
+  margin-bottom: 40px;
+  margin-left: auto;
+  overflow: hidden;
+}
+.principal {
+  float: left;
+  width: 700px;
+  margin-bottom: 40px;
+  border: 1px none #999;
+  overflow: hidden;
+  color: #000;
+  height: auto;
+}
+.destaque {
+  float: right;
+  height: auto;
+  width: 300px;
+  border: 1px none #999;
+  color: #000;
+}
+.rodape {
+  background-color: #990000;
+  height: auto;
+  width: 100%;
+  color: #fff;
+  overflow: hidden;
+}
+.rodape-content {
+  padding: 5px;
+  height: auto;
+  width: 1024px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+}
+.rodape-box {
+  margin: 3px;
+  padding: 3px;
+  float: left;
+  height: 300px;
+  width: 320px;
+}
